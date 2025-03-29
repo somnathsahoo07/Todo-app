@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userid": "john_nit",
+      "password": "john@nit",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "userid": "david",
+      "password": "david11",
+      "email": "david@outlook.com"
+    },
+    {
+      "id": "567e",
+      "userid": "som",
+      "password": "22222",
+      "email": "somsahoo0703@gmail.com"
+    },
+    {
+      "id": "66f9",
+      "userid": "soumya",
+      "password": "445566",
+      "email": "soumya@gmail.com"
+    },
+    {
+      "id": "63dc",
+      "userid": "soumy1",
+      "password": "User@1",
+      "email": "soumya1@gmail.com"
+    },
+    {
+      "id": "024a",
+      "userid": "soumy2",
+      "password": "User@1",
+      "email": "soumya2@gmail.com"
+    },
+    {
+      "id": "4e4d",
+      "userid": "somnath",
+      "password": "1122@Som",
+      "email": "som@gmail.com"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "title": "Friend Birthday",
+      "date": "2025-03-22",
+      "userid": "john_nit"
+    },
+    {
+      "id": "2",
+      "title": "Submit Project Document",
+      "date": "2025-03-18",
+      "userid": "david"
+    }
+  ],
+  "run_cmd":[
+    {"cmd":"json-server db.json --watch --port=4000"}
+  ]
+}
