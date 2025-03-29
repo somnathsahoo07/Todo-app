@@ -1,0 +1,8 @@
+
+
+.bg-image {
+    height: 950px;
+    background-image: url("/public/TODO_Banner.jpg"); 
+    background-size: cover;
+    overflow: hidden;
+}

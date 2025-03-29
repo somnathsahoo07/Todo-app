@@ -1,0 +1,24 @@
+{
+    "users" : [
+        {
+            "id" : 1 ,
+            "userid" : "" ,
+            "password" : "" ,
+            "email" : ""
+        } ,
+        {
+
+        }
+    ] , 
+
+    "appointments" : [
+        {
+            "id" : 1 ,
+            "title" : "" ,
+            "date" : "" ,
+            "description" : "" ,
+            "userid" : ""
+        }
+    ]
+    
+}
